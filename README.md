@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Alumni Association Platform
 
 ## Getting Started
@@ -83,3 +84,6 @@ If you encounter issues during signup:
 1. Check the server logs for detailed error messages
 2. Verify your database schema is properly set up
 3. Make sure all required environment variables are set
+=======
+# alumniapp
+>>>>>>> 83f0f99a0d2356418d6199edfe9364d7228e9d2d
