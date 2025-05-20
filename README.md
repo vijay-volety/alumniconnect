@@ -1,5 +1,9 @@
-<<<<<<< HEAD
+
 # Alumni Association Platform
+
+🛠️ Project Contributors
+This alumni association platform was collaboratively developed by me and my team VIJAY VOLETY AND RAZIYA MOHAMMAD  as part of a team project to streamline alumni networking and engagement.
+
 
 ## Getting Started
 
@@ -86,4 +90,4 @@ If you encounter issues during signup:
 3. Make sure all required environment variables are set
 =======
 # alumniapp
->>>>>>> 83f0f99a0d2356418d6199edfe9364d7228e9d2d
+
