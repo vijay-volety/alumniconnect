@@ -2,7 +2,7 @@
 # Alumni Association Platform
 
 🛠️ Project Contributors
-This alumni association platform was collaboratively developed by me and my team VIJAY VOLETY AND RAZIYA MOHAMMAD  as part of a team project to streamline alumni networking and engagement.
+This alumni association platform was collaboratively developed by me and my team SRAVANTHI AKULA AND RAZIYA MOHAMMAD  as part of a team project to streamline alumni networking and engagement.
 
 
 ## Getting Started
